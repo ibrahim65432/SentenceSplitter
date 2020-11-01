@@ -18,9 +18,9 @@ java Project <input>
 
 In input, that is where you put the textfile. 
 
-For example, attached is the TestCorpus-PennTreebank.txt , so you will run it with:
+For example, example.txt will run with:
 
-java Project TestCorpus-PennTreebank.txt
+java Project example.txt
 
 The result should be sentences split. 
 
