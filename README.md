@@ -1,0 +1,2 @@
+# SentenceSplitter
+This program uses regex to split sentences on any kind of texts, separated by a new line. Writes onto a txt file the results. This program proved to be as good as the worlds best sentence splitter that utilizes machine learning producing a result of over 99% accuracy. Utilizing far less resources compared to machine learning, this program proves to have its place in the era of machine learning.
